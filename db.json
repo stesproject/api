@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "text": "Post",
+    "route": "",
+    "icon": "write"
+  },
+  {
+    "id": 1,
+    "text": "Email",
+    "route": "",
+    "icon": "mail"
+  },
+  {
+    "id": 2,
+    "text": "Documents",
+    "route": "",
+    "icon": "wordpress forms"
+  }
+]
