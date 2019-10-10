@@ -1,4 +1,9 @@
 {
+  "settings": {
+    "animation": "overlay",
+    "direction": "left",
+    "dimmed": false
+  },
   "elements": [
     {
       "id": 0,
