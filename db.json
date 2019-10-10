@@ -1,8 +1,8 @@
 {
   "settings": {
     "animation": "overlay",
-    "direction": "top",
-    "dimmed": true
+    "direction": "left",
+    "dimmed": false
   },
   "elements": [
     {
