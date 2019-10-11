@@ -8,19 +8,19 @@
     {
       "id": 0,
       "text": "Post",
-      "route": "",
+      "route": "page1",
       "icon": "write"
     },
     {
       "id": 1,
       "text": "Email",
-      "route": "",
+      "route": "page2",
       "icon": "mail"
     },
     {
       "id": 2,
       "text": "Documents",
-      "route": "",
+      "route": "page3",
       "icon": "wordpress forms"
     }
   ]
