@@ -15,13 +15,13 @@
       "id": 1,
       "text": "Email",
       "route": "page2",
-      "icon": "mail"
+      "icon": "envelope"
     },
     {
       "id": 2,
       "text": "Documents",
       "route": "page3",
-      "icon": "wordpress forms"
+      "icon": "doc"
     }
   ]
 }
