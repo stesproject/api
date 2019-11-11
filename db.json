@@ -1,16 +1,16 @@
 {
-  "dropdown":[
-										{
-											"id": 0,
-											"title": "Option 1",
-											"selected": false,
-											"route": ""
-										},
-										{
-											"id": 1,
-											"title": "Option 2",
-											"selected": false,
-											"route": ""
-										}
-									]
+  "dropdown": [
+    {
+      "id": 0,
+      "title": "Option 1",
+      "selected": false,
+      "route": ""
+    },
+    {
+      "id": 1,
+      "title": "Option 2",
+      "selected": false,
+      "route": ""
+    }
+  ]
 }
