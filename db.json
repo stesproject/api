@@ -1,18 +1,16 @@
 {
-  "dropdowns": {
-    "categories": [
-      {
-        "id": 0,
-        "title": "Option 1",
-        "selected": false,
-        "route": ""
-      },
-      {
-        "id": 1,
-        "title": "Option 2",
-        "selected": false,
-        "route": ""
-      }
-    ]
-  }
+  "dropdown_categories": [
+    {
+      "id": 0,
+      "title": "Development",
+      "selected": false,
+      "route": ""
+    },
+    {
+      "id": 1,
+      "title": "Blog",
+      "selected": false,
+      "route": ""
+    }
+  ]
 }
