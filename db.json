@@ -1,27 +1,16 @@
 {
-  "settings": {
-    "animation": "overlay",
-    "direction": "left",
-    "dimmed": false
-  },
-  "elements": [
-    {
-      "id": 0,
-      "text": "Post",
-      "route": "page1",
-      "icon": "write"
-    },
-    {
-      "id": 1,
-      "text": "Email",
-      "route": "page2",
-      "icon": "envelope"
-    },
-    {
-      "id": 2,
-      "text": "Documents",
-      "route": "page3",
-      "icon": "doc"
-    }
-  ]
+  "dropdown":[
+										{
+											"id": 0,
+											"title": "Option 1",
+											"selected": false,
+											"route": ""
+										},
+										{
+											"id": 1,
+											"title": "Option 2",
+											"selected": false,
+											"route": ""
+										}
+									]
 }
